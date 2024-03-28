@@ -2,7 +2,7 @@
 This is based on LSTM algorithm, designed to predict and generate humorous text based on a dataset of jokes.
 Traditional steps of an NLP application: <br />
 * Tokenization and Sequence Creation
-* Text Cleaning (stopwords removal,Stemming) and Preprocessing
+* Text Cleaning (stopwords removal, stemming) and Preprocessing
 * Model Training
 * Model Validation
 
